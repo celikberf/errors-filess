@@ -1,4 +1,0 @@
-Berfinn Çelik:60,70,80
-Güler Çelik:60,90,70
-Soner Çelik:70,40,90
-Zeynep Çelik:80,50,90
